@@ -1,0 +1,30 @@
+# Core DL frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# CV and utilities
+opencv-python>=4.8.0
+numpy>=1.24.0,<2.0.0
+Pillow>=10.0.0
+PyYAML>=6.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+
+# YOLOv9 dependencies
+ultralytics>=8.0.0
+thop
+tensorboard>=2.14.0
+protobuf<4.21.3
+
+# Dataset and notebook
+roboflow>=1.1.0
+ipykernel>=6.25.0
+jupyter>=1.0.0
+ipython
+
+# Misc
+requests>=2.31.0
+scipy>=1.10.0
